@@ -282,9 +282,9 @@ Through this project, I gained practical experience in:
 
 Aspiring Machine Learning Engineer | Data Scientist
 
-GitHub: https://github.com/ceo
+GitHub: https://github.com/CEO-of-AJR
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/jax-r
 
 ---
 
