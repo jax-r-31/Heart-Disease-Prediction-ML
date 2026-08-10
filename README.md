@@ -205,7 +205,7 @@ Visualizations are created using:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Heart-Disease-Prediction-ML.git
+git clone https://github.com/jax-r-31/Heart-Disease-Prediction-ML.git
 ```
 
 ## 2. Navigate to Project Directory
